@@ -11,10 +11,8 @@ I love transforming complex ideas into clean, maintainable, and production-ready
 - **Enterprise Database Systems** using **MS SQL Server**, Stored Procedures, Views, Triggers
 - **Authentication & Authorization Systems** (MVC, API, Cookie & Token-based)
 - **Live Deployment** on **Microsoft Azure** and **AWS**
-
+ 
 ### 📚 Currently Learning
-- 🌱 Advanced **Clean Coding** techniques (SOLID, DRY, KISS, Refactoring)
-- 🌱 **Clean Architecture**, Domain-Driven Design (DDD), and Modular Architecture  
-- 🌱 Performance optimization in APIs & SQL  
-- 🌱 Cloud-native deployment and automation pipelines  
-
+- 🌱 Exploring in-depth **clean coding** and **modern programming practices**
+- 🌱 Continuously learning **emerging technologies** to stay aligned with evolving industry trends
+- 🌱 Improving architectural thinking and writing more optimized, maintainable code
