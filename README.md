@@ -13,6 +13,6 @@ I love transforming complex ideas into clean, maintainable, and production-ready
 - **Live Deployment** on **Microsoft Azure** and **AWS**
  
 ### 📚 Currently Learning
-- 🌱 Exploring in-depth **clean coding** and **modern programming practices**
-- 🌱 Continuously learning **emerging technologies** to stay aligned with evolving industry trends
-- 🌱 Improving architectural thinking and writing more optimized, maintainable code
+🌱 Exploring in-depth **clean coding** and **modern programming practices**
+🌱 Continuously learning **emerging technologies** to stay aligned with evolving industry trends
+🌱 Improving architectural thinking and writing more optimized, maintainable code
