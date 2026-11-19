@@ -14,5 +14,5 @@ I love transforming complex ideas into clean, maintainable, and production-ready
  
 ### 📚 Currently Learning
 🌱 Exploring in-depth **clean coding** and **modern programming practices** <br>
-🌱 Continuously learning **emerging technologies** to stay aligned with evolving industry trends
+🌱 Continuously learning **emerging technologies** to stay aligned with evolving industry trends <br>
 🌱 Improving architectural thinking and writing more optimized, maintainable code
